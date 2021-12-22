@@ -1,0 +1,28 @@
+.user{
+    width: 320px;
+    padding: 25px 25px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 0 10px 2px;
+}
+.user img{
+    border-radius: 15px;
+    min-height: 150px;
+    min-width: 150px;
+    height: 20vh;
+}
+.user p{
+    margin-top: 5px;
+    font-size: 26px;
+    line-height: 32px;
+}
+
+#dark .user{
+    background-color: #7f858d;
+    box-shadow: none;
+}
+@media (max-width: 350px) {
+    .user{
+        width: 300px;
+    }
+}

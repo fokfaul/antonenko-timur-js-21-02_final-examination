@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+#dark{
+    background-color: black;
+}
+
+#dark p, #dark div, #dark label {
+    color: white;
+}
+
+.app-content{
+    min-height: calc(100vh - 150px);
+}
+
+.app-content .ant-col-24 .ant-form-item-control-input-content{
+    text-align: center;
+}
+

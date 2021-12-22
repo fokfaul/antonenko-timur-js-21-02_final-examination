@@ -1,0 +1,34 @@
+.post-comment{
+    display: grid;
+    grid-template-columns: 40px auto;
+    grid-template-rows: repeat(3, auto);
+    padding: 5px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 5px 1px;
+    text-align: left;
+}
+#dark .post-comment{
+    background-color: #7f858d;
+    box-shadow: none;
+}
+.post-comment__owner__image{
+    grid-row-start: 1;
+    grid-row-end: 4;
+    height: 30px;
+    width: 30px;
+    border-radius: 25px;
+    margin-right: 10px;
+}
+.post-comment__owner__name{
+    font-weight: 600;
+}
+.post-comment__text{
+    margin: 5px 0;
+}
+.post-comment__data{
+    font-size: 10px;
+    line-height: 14px;
+    text-align: right;
+}
+

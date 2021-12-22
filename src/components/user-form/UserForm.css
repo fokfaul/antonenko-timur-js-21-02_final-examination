@@ -1,0 +1,9 @@
+#user-info-form{
+    margin: 0 auto;
+    max-width: 640px;
+    text-align: center;
+}
+#user-info-form .ant-form-item-control{
+    text-align: left;
+}
+

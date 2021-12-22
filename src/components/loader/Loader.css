@@ -1,0 +1,54 @@
+.loader{
+    position: relative;
+    padding: 50px;
+}
+
+.loader__body {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -33px;
+  margin-left: -33px;
+}
+.loader__body span {
+  position: absolute;
+  display: block;
+  border: 3px solid black;
+  border-radius: 100%;
+}
+#dark .loader__body span{
+    border: 3px solid white;
+}
+.loader__1lvl,
+.loader__2lvl,
+.loader__3lvl {
+  animation-name: rotate;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.loader__1lvl {
+  width: 60px;
+  height: 60px;
+  animation-duration: 1500ms;
+}
+.loader__2lvl {
+  animation-duration: 4500ms;
+  transform-origin: 63% 63%;
+  width: 40px;
+  height: 40px;
+}
+.loader__3lvl {
+  animation-duration: 9000ms;
+  transform-origin: 74% 74%;
+  width: 20px;
+  height: 20px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}

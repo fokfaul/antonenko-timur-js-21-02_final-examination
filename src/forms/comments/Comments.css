@@ -1,0 +1,16 @@
+.post__comments{
+    width: 100%;
+}
+.post__comments__list{
+    padding: 0 10px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto;
+}
+.post__comments__list .post-comment:nth-child(n+1){
+    margin-top: 10px;
+}
+.post__comments__view{
+    display: flex;
+    align-items: center;
+}

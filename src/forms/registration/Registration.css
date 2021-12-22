@@ -1,0 +1,29 @@
+.registration{
+    padding-top: 10vh;
+}
+.registration .container{
+    max-width: 800px;
+    padding: 25px;
+    background-color: white;
+    border-radius: 25px;
+    box-shadow: 0 0 5px 1px;
+}
+#dark .registration .container{
+    background-color: #7f858d;
+    box-shadow: none;
+}
+.registration h2{
+    padding: 10px;
+}
+#dark .registration h2{
+    color: white;
+}
+#registration__form{
+    margin: 0 auto;
+    max-width: 640px;
+    text-align: center;
+}
+#registration__form .ant-form-item-control{
+    text-align: left;
+}
+

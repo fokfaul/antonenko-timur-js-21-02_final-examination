@@ -1,0 +1,404 @@
+22:16:33.414 INFO  f4ff8d3a-8614-498c-847a-86455b230405 [UserService.getUserList] page=undefined limit=undefined 
+22:16:33.417 INFO  f4ff8d3a-8614-498c-847a-86455b230405 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:16:33.453 INFO  b2669640-6eb6-4c8d-ae4c-edd262aec314 [UserService.getUserList] page=undefined limit=undefined 
+22:16:33.453 INFO  b2669640-6eb6-4c8d-ae4c-edd262aec314 [UserService.getUserList] error status=520 response=[object Object] 
+22:17:39.274 INFO  2fad49c4-b032-491e-8ece-37a7f7ac1307 [UserService.getUserList] page=undefined limit=undefined 
+22:17:39.278 INFO  2fad49c4-b032-491e-8ece-37a7f7ac1307 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:17:39.308 INFO  de979651-f45e-481b-9426-69293cbea687 [UserService.getUserList] page=undefined limit=undefined 
+22:17:39.308 INFO  de979651-f45e-481b-9426-69293cbea687 [UserService.getUserList] error status=520 response=[object Object] 
+22:26:17.586 INFO  882bc432-af48-4059-b3c7-09dc10fdd9d2 [UserService.getUserList] page=undefined limit=undefined 
+22:26:17.590 INFO  882bc432-af48-4059-b3c7-09dc10fdd9d2 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:26:17.618 INFO  30f41950-771b-45d0-9e60-de9c1347462c [UserService.getUserList] page=undefined limit=undefined 
+22:26:17.618 INFO  30f41950-771b-45d0-9e60-de9c1347462c [UserService.getUserList] error status=520 response=[object Object] 
+22:27:13.245 INFO  2e9b67ac-9244-43ac-b8d2-06f69bf00c59 [UserService.getUserList] page=undefined limit=undefined 
+22:27:13.247 INFO  2e9b67ac-9244-43ac-b8d2-06f69bf00c59 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:27:13.274 INFO  54e74468-fe3e-47b4-8e4e-588d61bf3c39 [UserService.getUserList] page=undefined limit=undefined 
+22:27:13.274 INFO  54e74468-fe3e-47b4-8e4e-588d61bf3c39 [UserService.getUserList] error status=520 response=[object Object] 
+22:29:07.029 INFO  ea74935a-7915-4925-b3aa-7ae4368de706 [UserService.getUserList] page=undefined limit=undefined 
+22:29:07.031 INFO  ea74935a-7915-4925-b3aa-7ae4368de706 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:29:07.060 INFO  c43ee752-22dc-4ff7-948a-f5570ac697ce [UserService.getUserList] page=undefined limit=undefined 
+22:29:07.060 INFO  c43ee752-22dc-4ff7-948a-f5570ac697ce [UserService.getUserList] error status=520 response=[object Object] 
+22:29:44.683 INFO  a2731a04-a51c-44b8-b5ac-9ba7b5c77975 [UserService.getUserList] page=undefined limit=undefined 
+22:29:44.685 INFO  a2731a04-a51c-44b8-b5ac-9ba7b5c77975 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:29:44.712 INFO  1d6b291b-0f40-4ca2-938b-b064c9f48080 [UserService.getUserList] page=undefined limit=undefined 
+22:29:44.712 INFO  1d6b291b-0f40-4ca2-938b-b064c9f48080 [UserService.getUserList] error status=520 response=[object Object] 
+22:30:31.441 INFO  e4be5f2a-0c5a-4baa-8a00-b422dcc3aeff [UserService.getUserList] page=undefined limit=undefined 
+22:30:31.443 INFO  e4be5f2a-0c5a-4baa-8a00-b422dcc3aeff [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:30:31.468 INFO  0e6b7498-2af7-4354-9ef4-5b380454bcbe [UserService.getUserList] page=undefined limit=undefined 
+22:30:31.469 INFO  0e6b7498-2af7-4354-9ef4-5b380454bcbe [UserService.getUserList] error status=520 response=[object Object] 
+22:32:10.731 INFO  d86f7a77-a713-4012-adee-8eff1d796f23 [UserService.getUserList] page=undefined limit=undefined 
+22:32:10.733 INFO  d86f7a77-a713-4012-adee-8eff1d796f23 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:32:10.761 INFO  eec4c9e8-d5f0-47cf-be5f-f71530c18377 [UserService.getUserList] page=undefined limit=undefined 
+22:32:10.761 INFO  eec4c9e8-d5f0-47cf-be5f-f71530c18377 [UserService.getUserList] error status=520 response=[object Object] 
+22:32:47.086 INFO  8c9bf7b5-031f-4c6b-bd68-c7f456f20b9d [UserService.getUserList] page=undefined limit=undefined 
+22:32:47.090 INFO  8c9bf7b5-031f-4c6b-bd68-c7f456f20b9d [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:32:47.118 INFO  4dc60770-06e4-43fc-a64a-4050d1303c04 [UserService.getUserList] page=undefined limit=undefined 
+22:32:47.118 INFO  4dc60770-06e4-43fc-a64a-4050d1303c04 [UserService.getUserList] error status=520 response=[object Object] 
+22:32:47.125 INFO  ecb3f125-66b7-487c-91c5-4868d0a3da6e [UserService.getUserList] page=undefined limit=undefined 
+22:47:24.058 INFO  cc704f6a-666e-4c4c-974b-5b46d1d27d05 [UserService.getUserList] page=undefined limit=undefined 
+22:47:24.061 INFO  cc704f6a-666e-4c4c-974b-5b46d1d27d05 [UserService.getUserList] error status=520 response=[object Object] 
+22:47:24.099 INFO  84c96c27-3c5e-46ea-b55e-f9f3161204ec [UserService.getUserList] page=undefined limit=undefined 
+22:47:24.099 INFO  84c96c27-3c5e-46ea-b55e-f9f3161204ec [UserService.getUserList] error status=520 response=[object Object] 
+22:47:24.108 INFO  76454e93-a806-4655-9664-b9f7ff11fa31 [UserService.getUserList] page=undefined limit=undefined 
+22:48:25.922 INFO  2af02812-541e-49a0-8166-451176431e4c [UserService.getUserList] page=undefined limit=undefined 
+22:48:25.924 INFO  2af02812-541e-49a0-8166-451176431e4c [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:48:25.954 INFO  a881ceb4-fa02-45d0-8fe6-639dfebb48ac [UserService.getUserList] page=undefined limit=undefined 
+22:48:25.954 INFO  a881ceb4-fa02-45d0-8fe6-639dfebb48ac [UserService.getUserList] error status=520 response=[object Object] 
+22:48:25.959 INFO  48119753-2ff4-43cf-a8d1-5d272fba8f24 [UserService.getUserList] page=undefined limit=undefined 
+22:58:04.008 INFO  ed1c5001-3307-4063-8818-73b483aa16f3 [UserService.getUserList] page=undefined limit=undefined 
+22:58:04.028 INFO  ed1c5001-3307-4063-8818-73b483aa16f3 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:58:04.053 INFO  480759e4-ae31-4287-8448-dcd28b90dc1b [UserService.getUserList] page=undefined limit=undefined 
+22:58:04.054 INFO  480759e4-ae31-4287-8448-dcd28b90dc1b [UserService.getUserList] error status=520 response=[object Object] 
+22:58:04.060 INFO  6e2c36cc-0536-468a-9a49-8aa9784c3024 [UserService.getUserList] page=undefined limit=undefined 
+22:59:32.911 INFO  69bf7b56-f927-4d9f-bf7e-064831b34698 [UserService.getUserList] page=undefined limit=undefined 
+22:59:32.913 INFO  69bf7b56-f927-4d9f-bf7e-064831b34698 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+22:59:32.942 INFO  8c0c8192-c063-4578-aa68-8939a07ed06d [UserService.getUserList] page=undefined limit=undefined 
+22:59:32.942 INFO  8c0c8192-c063-4578-aa68-8939a07ed06d [UserService.getUserList] error status=520 response=[object Object] 
+22:59:32.947 INFO  bf6d2c29-1e35-4b51-a784-058279f40615 [UserService.getUserList] page=undefined limit=undefined 
+23:03:24.132 INFO  f28e674b-a52f-4efa-b6c4-cc689ae3262d [UserService.getUserList] page=undefined limit=undefined 
+23:03:24.135 INFO  f28e674b-a52f-4efa-b6c4-cc689ae3262d [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:03:24.163 INFO  f6000c2b-05a4-460c-9f5e-8b048eebfc12 [UserService.getUserList] page=undefined limit=undefined 
+23:03:24.163 INFO  f6000c2b-05a4-460c-9f5e-8b048eebfc12 [UserService.getUserList] error status=520 response=[object Object] 
+23:03:24.168 INFO  84da320e-53cc-4171-8a20-5038399019c5 [UserService.getUserList] page=undefined limit=undefined 
+23:04:12.385 INFO  155de351-7227-45bc-afdb-a39e9ce4761d [UserService.getUserList] page=undefined limit=undefined 
+23:04:12.389 INFO  155de351-7227-45bc-afdb-a39e9ce4761d [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:04:12.415 INFO  fddbead9-2fc8-4758-be7f-b45f795b2c9f [UserService.getUserList] page=undefined limit=undefined 
+23:04:12.416 INFO  fddbead9-2fc8-4758-be7f-b45f795b2c9f [UserService.getUserList] error status=520 response=[object Object] 
+23:04:12.422 INFO  a7fb6d01-f467-42a2-b526-5bae9272edad [UserService.getUserList] page=undefined limit=undefined 
+23:04:12.423 INFO  a7fb6d01-f467-42a2-b526-5bae9272edad [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:04:57.892 INFO  5dbcf71e-47da-4b51-825b-0b38a8fdb77a [UserService.getUserList] page=undefined limit=undefined 
+23:04:57.895 INFO  5dbcf71e-47da-4b51-825b-0b38a8fdb77a [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:04:57.922 INFO  f41b8287-174c-4f53-b662-cb438af6407c [UserService.getUserList] page=undefined limit=undefined 
+23:04:57.922 INFO  f41b8287-174c-4f53-b662-cb438af6407c [UserService.getUserList] error status=520 response=[object Object] 
+23:04:57.927 INFO  8eb990db-ebca-401f-92eb-b3b9c2c23495 [UserService.getUserList] page=undefined limit=undefined 
+23:04:57.928 INFO  8eb990db-ebca-401f-92eb-b3b9c2c23495 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:04:57.933 INFO  228713b5-fc21-4294-846b-288d239e9add [UserService.getUserById] id=435345234afadfgawe 
+23:04:57.933 INFO  228713b5-fc21-4294-846b-288d239e9add [UserService.getUserById] success status=200 response=[object Object] 
+23:09:54.442 INFO  48df2664-4e94-45eb-9fa9-86fd89160ae2 [UserService.getUserList] page=undefined limit=undefined 
+23:09:54.445 INFO  48df2664-4e94-45eb-9fa9-86fd89160ae2 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:09:54.472 INFO  7cf8e899-80d1-434f-b28a-75ea46776acd [UserService.getUserList] page=undefined limit=undefined 
+23:09:54.472 INFO  7cf8e899-80d1-434f-b28a-75ea46776acd [UserService.getUserList] error status=520 response=[object Object] 
+23:09:54.477 INFO  2959bdcc-d012-40e8-ad4d-4d25d4c8cdf9 [UserService.getUserList] page=undefined limit=undefined 
+23:09:54.478 INFO  2959bdcc-d012-40e8-ad4d-4d25d4c8cdf9 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:09:54.483 INFO  74826b79-0089-4717-b23d-82e1c30b1a75 [UserService.getUserById] id=435345234afadfgawe 
+23:09:54.484 INFO  74826b79-0089-4717-b23d-82e1c30b1a75 [UserService.getUserById] success status=200 response=[object Object] 
+23:12:24.408 INFO  6de31f3b-f692-4a71-9a68-93c3299a11dd [UserService.getUserList] page=undefined limit=undefined 
+23:12:24.411 INFO  6de31f3b-f692-4a71-9a68-93c3299a11dd [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:12:24.440 INFO  cbdb22c2-ff14-45ca-89dd-30c136bd4737 [UserService.getUserList] page=undefined limit=undefined 
+23:12:24.440 INFO  cbdb22c2-ff14-45ca-89dd-30c136bd4737 [UserService.getUserList] error status=520 response=[object Object] 
+23:12:24.445 INFO  3663b33e-6896-49d8-bc8c-8df4f413b857 [UserService.getUserList] page=undefined limit=undefined 
+23:12:24.446 INFO  3663b33e-6896-49d8-bc8c-8df4f413b857 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:12:24.452 INFO  9b97e917-75b6-48cb-a212-cd44defbea92 [UserService.getUserById] id=435345234afadfgawe 
+23:12:24.453 INFO  9b97e917-75b6-48cb-a212-cd44defbea92 [UserService.getUserById] success status=200 response=[object Object] 
+23:27:09.662 INFO  a7fdebe9-832d-457a-8a84-5054e36c4ba3 [UserService.getUserList] page=undefined limit=undefined 
+23:27:09.665 INFO  a7fdebe9-832d-457a-8a84-5054e36c4ba3 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:27:09.693 INFO  cf51272c-ca5e-4bfa-a9ca-54d6e3e285de [UserService.getUserList] page=undefined limit=undefined 
+23:27:09.694 INFO  cf51272c-ca5e-4bfa-a9ca-54d6e3e285de [UserService.getUserList] error status=520 response=[object Object] 
+23:27:09.699 INFO  4f54e90f-9bae-4607-ab58-7667c75f827e [UserService.getUserList] page=undefined limit=undefined 
+23:27:09.700 INFO  4f54e90f-9bae-4607-ab58-7667c75f827e [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:27:09.705 INFO  dcd91591-07a7-43ef-8e79-e074292c8558 [UserService.getUserById] id=435345234afadfgawe 
+23:27:09.705 INFO  dcd91591-07a7-43ef-8e79-e074292c8558 [UserService.getUserById] success status=200 response=[object Object] 
+23:27:09.712 INFO  cd5b31f6-114b-4312-806c-b14cb852a47a [UserService.getUserById] id=435345234afadfgawe 
+23:27:09.712 INFO  cd5b31f6-114b-4312-806c-b14cb852a47a [UserService.getUserById] error status=400 response=[object Object] 
+23:33:54.218 INFO  687ea61a-92f8-4b8e-a4a7-9bdf1195787e [UserService.getUserList] page=undefined limit=undefined 
+23:33:54.221 INFO  687ea61a-92f8-4b8e-a4a7-9bdf1195787e [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:33:54.252 INFO  6d6ebbcf-a858-42f6-b64c-abb56318f356 [UserService.getUserList] page=undefined limit=undefined 
+23:33:54.253 INFO  6d6ebbcf-a858-42f6-b64c-abb56318f356 [UserService.getUserList] error status=520 response=[object Object] 
+23:33:54.259 INFO  a6ce1a32-b435-45ae-acdb-886d36a8dd91 [UserService.getUserList] page=undefined limit=undefined 
+23:33:54.260 INFO  a6ce1a32-b435-45ae-acdb-886d36a8dd91 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:33:54.265 INFO  331ed8b2-c4d4-468f-b93f-12548e8da2ca [UserService.getUserById] id=435345234afadfgawe 
+23:33:54.266 INFO  331ed8b2-c4d4-468f-b93f-12548e8da2ca [UserService.getUserById] success status=200 response=[object Object] 
+23:33:54.272 INFO  6498f762-10b9-4fbe-a673-8cbc4cb77678 [UserService.getUserById] id=435345234afadfgawe 
+23:33:54.272 INFO  6498f762-10b9-4fbe-a673-8cbc4cb77678 [UserService.getUserById] error status=520 response=[object Object] 
+23:36:22.447 INFO  cf29fb88-3fa5-4d39-bb0f-9e2107958608 [UserService.getUserList] page=undefined limit=undefined 
+23:36:22.450 INFO  cf29fb88-3fa5-4d39-bb0f-9e2107958608 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:36:22.477 INFO  974a6413-214c-484e-a546-65b1bd8e3b48 [UserService.getUserList] page=undefined limit=undefined 
+23:36:22.477 INFO  974a6413-214c-484e-a546-65b1bd8e3b48 [UserService.getUserList] error status=520 response=[object Object] 
+23:36:22.483 INFO  d954983a-adc0-4e80-ae86-520df9cbcb6f [UserService.getUserList] page=undefined limit=undefined 
+23:36:22.483 INFO  d954983a-adc0-4e80-ae86-520df9cbcb6f [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:36:22.489 INFO  d91a420a-9d45-4fac-b9cd-4da1df2f8579 [UserService.getUserById] id=435345234afadfgawe 
+23:36:22.490 INFO  d91a420a-9d45-4fac-b9cd-4da1df2f8579 [UserService.getUserById] success status=200 response=[object Object] 
+23:36:22.496 INFO  041c3410-2450-4327-89d6-84a4c9374a63 [UserService.getUserById] id=435345234afadfgawe 
+23:36:22.496 INFO  041c3410-2450-4327-89d6-84a4c9374a63 [UserService.getUserById] error status=520 response=[object Object] 
+23:36:22.501 INFO  9ee558dc-fc2a-44e5-9422-f1740eacf0cc [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:36:22.502 INFO  9ee558dc-fc2a-44e5-9422-f1740eacf0cc [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:36:40.524 INFO  ef39c606-3d51-470f-8689-816c02868607 [UserService.getUserList] page=undefined limit=undefined 
+23:36:40.530 INFO  ef39c606-3d51-470f-8689-816c02868607 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:36:40.555 INFO  00a317dd-e700-49de-bb9f-d5c3876c9ccd [UserService.getUserList] page=undefined limit=undefined 
+23:36:40.555 INFO  00a317dd-e700-49de-bb9f-d5c3876c9ccd [UserService.getUserList] error status=520 response=[object Object] 
+23:36:40.561 INFO  97f7b598-264d-4f75-b17f-074f857a76aa [UserService.getUserList] page=undefined limit=undefined 
+23:36:40.562 INFO  97f7b598-264d-4f75-b17f-074f857a76aa [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:36:40.567 INFO  52f86012-b124-41fb-8a96-40e5ddb0022a [UserService.getUserById] id=435345234afadfgawe 
+23:36:40.567 INFO  52f86012-b124-41fb-8a96-40e5ddb0022a [UserService.getUserById] success status=200 response=[object Object] 
+23:36:40.575 INFO  e607d12d-b22c-4cf2-bf34-1f76465989c0 [UserService.getUserById] id=435345234afadfgawe 
+23:36:40.575 INFO  e607d12d-b22c-4cf2-bf34-1f76465989c0 [UserService.getUserById] error status=520 response=[object Object] 
+23:36:40.581 INFO  cab19974-004b-4d10-9511-4ef11ddda240 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:36:40.581 INFO  cab19974-004b-4d10-9511-4ef11ddda240 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:40:04.425 INFO  b2747270-4c37-4b85-a2e3-a127b836011c [UserService.getUserList] page=undefined limit=undefined 
+23:40:04.429 INFO  b2747270-4c37-4b85-a2e3-a127b836011c [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:40:04.456 INFO  415b6a3f-a1b1-496b-b2ee-3b4c9ea56d92 [UserService.getUserList] page=undefined limit=undefined 
+23:40:04.456 INFO  415b6a3f-a1b1-496b-b2ee-3b4c9ea56d92 [UserService.getUserList] error status=520 response=[object Object] 
+23:40:04.461 INFO  2b99b6a1-0606-4b09-b01e-8e65e33ff026 [UserService.getUserList] page=undefined limit=undefined 
+23:40:04.462 INFO  2b99b6a1-0606-4b09-b01e-8e65e33ff026 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:40:04.467 INFO  0d51b51b-cbda-466d-af1c-e5ca094374a7 [UserService.getUserById] id=435345234afadfgawe 
+23:40:04.467 INFO  0d51b51b-cbda-466d-af1c-e5ca094374a7 [UserService.getUserById] success status=200 response=[object Object] 
+23:40:04.472 INFO  1e63484c-3e8a-4d54-b5bc-c54a91e51c09 [UserService.getUserById] id=435345234afadfgawe 
+23:40:04.472 INFO  1e63484c-3e8a-4d54-b5bc-c54a91e51c09 [UserService.getUserById] error status=520 response=[object Object] 
+23:40:04.476 INFO  a22613cd-fa2c-4418-8272-3fe558135303 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:40:04.477 INFO  a22613cd-fa2c-4418-8272-3fe558135303 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:40:04.481 INFO  179aa16d-d69f-40c1-bfde-9f8097ab2c22 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:40:04.481 INFO  179aa16d-d69f-40c1-bfde-9f8097ab2c22 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:42:07.219 INFO  647f7596-9192-41da-b74d-5a6a83d441b7 [UserService.getUserList] page=undefined limit=undefined 
+23:42:07.222 INFO  647f7596-9192-41da-b74d-5a6a83d441b7 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:42:07.255 INFO  9f1372af-c02b-4530-8168-063fcd962403 [UserService.getUserList] page=undefined limit=undefined 
+23:42:07.255 INFO  9f1372af-c02b-4530-8168-063fcd962403 [UserService.getUserList] error status=520 response=[object Object] 
+23:42:07.261 INFO  1dab2f72-fcf0-4c16-aea8-d42f0b179c1d [UserService.getUserList] page=undefined limit=undefined 
+23:42:07.261 INFO  1dab2f72-fcf0-4c16-aea8-d42f0b179c1d [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:42:07.267 INFO  c0b95714-9ed7-422e-bb9c-d24cb48c76d6 [UserService.getUserById] id=435345234afadfgawe 
+23:42:07.267 INFO  c0b95714-9ed7-422e-bb9c-d24cb48c76d6 [UserService.getUserById] success status=200 response=[object Object] 
+23:42:07.273 INFO  07f9b876-cd89-4d7b-aaf9-d452cbb916bf [UserService.getUserById] id=435345234afadfgawe 
+23:42:07.274 INFO  07f9b876-cd89-4d7b-aaf9-d452cbb916bf [UserService.getUserById] error status=520 response=[object Object] 
+23:42:07.279 INFO  a7822881-4793-42bc-957d-69612b24e85c [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:42:07.280 INFO  a7822881-4793-42bc-957d-69612b24e85c [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:42:07.284 INFO  9230d78b-f075-4a70-8666-a755bbe791db [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:42:07.285 INFO  9230d78b-f075-4a70-8666-a755bbe791db [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:43:33.754 INFO  0d8c21de-4e3a-4feb-a3a8-e1f4f05ecba0 [UserService.getUserList] page=undefined limit=undefined 
+23:43:33.781 INFO  0d8c21de-4e3a-4feb-a3a8-e1f4f05ecba0 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:43:33.805 INFO  c6eeebe2-4a3e-4b08-9a73-9e9acd5331d0 [UserService.getUserList] page=undefined limit=undefined 
+23:43:33.806 INFO  c6eeebe2-4a3e-4b08-9a73-9e9acd5331d0 [UserService.getUserList] error status=520 response=[object Object] 
+23:43:33.815 INFO  213d017e-beda-46d5-9bee-50af2bb2cda5 [UserService.getUserList] page=undefined limit=undefined 
+23:43:33.815 INFO  213d017e-beda-46d5-9bee-50af2bb2cda5 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:43:33.821 INFO  67a4c25c-0cfa-45ed-9acd-60ce9c1de9dc [UserService.getUserById] id=435345234afadfgawe 
+23:43:33.821 INFO  67a4c25c-0cfa-45ed-9acd-60ce9c1de9dc [UserService.getUserById] success status=200 response=[object Object] 
+23:43:33.829 INFO  b51d6244-b5d0-4d61-a0b5-1906fa3f522d [UserService.getUserById] id=435345234afadfgawe 
+23:43:33.830 INFO  b51d6244-b5d0-4d61-a0b5-1906fa3f522d [UserService.getUserById] error status=520 response=[object Object] 
+23:43:33.835 INFO  f936b491-b0ef-480a-8dde-5f945b424af3 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:43:33.836 INFO  f936b491-b0ef-480a-8dde-5f945b424af3 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:43:33.841 INFO  e7304dae-ccd8-43d5-9b95-f4cea11f52e7 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:43:33.841 INFO  e7304dae-ccd8-43d5-9b95-f4cea11f52e7 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:45:14.012 INFO  e464e6a7-5261-4576-897b-f7747e3d0ea4 [UserService.getUserList] page=undefined limit=undefined 
+23:45:14.042 INFO  e464e6a7-5261-4576-897b-f7747e3d0ea4 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:45:14.066 INFO  413b2972-25d6-484b-8ebe-b168e0539467 [UserService.getUserList] page=undefined limit=undefined 
+23:45:14.067 INFO  413b2972-25d6-484b-8ebe-b168e0539467 [UserService.getUserList] error status=520 response=[object Object] 
+23:45:14.073 INFO  ffb71193-0241-4426-8332-5d8dc253ea77 [UserService.getUserList] page=undefined limit=undefined 
+23:45:14.074 INFO  ffb71193-0241-4426-8332-5d8dc253ea77 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:45:14.079 INFO  291b4b8b-81f9-44ef-bccd-471ba98f239d [UserService.getUserById] id=435345234afadfgawe 
+23:45:14.080 INFO  291b4b8b-81f9-44ef-bccd-471ba98f239d [UserService.getUserById] success status=200 response=[object Object] 
+23:45:14.086 INFO  5e0d6a8e-cd70-47ee-a4d3-4ecf6fde1447 [UserService.getUserById] id=435345234afadfgawe 
+23:45:14.087 INFO  5e0d6a8e-cd70-47ee-a4d3-4ecf6fde1447 [UserService.getUserById] error status=520 response=[object Object] 
+23:45:14.094 INFO  b940d46f-c7dd-4502-a3a1-65470eba7472 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:45:14.095 INFO  b940d46f-c7dd-4502-a3a1-65470eba7472 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:45:14.100 INFO  9d824684-1545-4d10-aa3f-93ecaf2bd1db [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:45:14.101 INFO  9d824684-1545-4d10-aa3f-93ecaf2bd1db [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:46:39.335 INFO  8d81a032-64da-4c39-9bee-e281e1aaea6f [UserService.getUserList] page=undefined limit=undefined 
+23:46:39.363 INFO  8d81a032-64da-4c39-9bee-e281e1aaea6f [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:46:39.387 INFO  c4d58e53-781f-447e-9421-65b1da92fb05 [UserService.getUserList] page=undefined limit=undefined 
+23:46:39.388 INFO  c4d58e53-781f-447e-9421-65b1da92fb05 [UserService.getUserList] error status=520 response=[object Object] 
+23:46:39.394 INFO  a6184361-a8d4-41f3-bcde-2c2b04dbbae9 [UserService.getUserList] page=undefined limit=undefined 
+23:46:39.394 INFO  a6184361-a8d4-41f3-bcde-2c2b04dbbae9 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:46:39.399 INFO  33514fa9-854b-4a98-86f1-a4cb84aa0340 [UserService.getUserById] id=435345234afadfgawe 
+23:46:39.400 INFO  33514fa9-854b-4a98-86f1-a4cb84aa0340 [UserService.getUserById] success status=200 response=[object Object] 
+23:46:39.406 INFO  c31c207d-9b50-4cde-b5d8-14693223bbca [UserService.getUserById] id=435345234afadfgawe 
+23:46:39.406 INFO  c31c207d-9b50-4cde-b5d8-14693223bbca [UserService.getUserById] error status=520 response=[object Object] 
+23:46:39.412 INFO  f4767a10-e8ae-4b52-865d-b77efcd61bb8 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:46:39.412 INFO  f4767a10-e8ae-4b52-865d-b77efcd61bb8 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:46:39.417 INFO  186c3380-8a92-46fe-b31d-4b2cc46cd59f [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:46:39.418 INFO  186c3380-8a92-46fe-b31d-4b2cc46cd59f [UserService.editUserById] error status=520 response=[object Object] 
+23:47:16.324 INFO  9faf1e8c-f886-4348-a450-2b402ce25aaa [UserService.getUserList] page=undefined limit=undefined 
+23:47:16.350 INFO  9faf1e8c-f886-4348-a450-2b402ce25aaa [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:47:16.376 INFO  d71fbaf4-f4a2-4e80-a443-a2dcbfbf4d10 [UserService.getUserList] page=undefined limit=undefined 
+23:47:16.377 INFO  d71fbaf4-f4a2-4e80-a443-a2dcbfbf4d10 [UserService.getUserList] error status=520 response=[object Object] 
+23:47:16.382 INFO  55bbb2bc-4299-43da-8231-6ba71216e888 [UserService.getUserList] page=undefined limit=undefined 
+23:47:16.383 INFO  55bbb2bc-4299-43da-8231-6ba71216e888 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:47:16.388 INFO  57fb84c1-963d-4ce4-bb97-84be3a8d71ad [UserService.getUserById] id=435345234afadfgawe 
+23:47:16.388 INFO  57fb84c1-963d-4ce4-bb97-84be3a8d71ad [UserService.getUserById] success status=200 response=[object Object] 
+23:47:16.393 INFO  aba07e0a-efa8-4954-a5c0-5e290862ab57 [UserService.getUserById] id=435345234afadfgawe 
+23:47:16.394 INFO  aba07e0a-efa8-4954-a5c0-5e290862ab57 [UserService.getUserById] error status=520 response=[object Object] 
+23:47:16.399 INFO  d7f5a33d-c77f-4c2d-9d0f-8b5054e47aff [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:47:16.400 INFO  d7f5a33d-c77f-4c2d-9d0f-8b5054e47aff [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:47:16.404 INFO  01acc702-62b7-4c6e-bb08-03b06c8e9aa7 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:47:16.405 INFO  01acc702-62b7-4c6e-bb08-03b06c8e9aa7 [UserService.editUserById] error status=520 response=[object Object] 
+23:47:16.557 INFO  1f491a87-ace1-417f-81f7-47fd09b27a73 [UserService.createUser] INPUT PARAMS body={} 
+23:47:16.558 INFO  1f491a87-ace1-417f-81f7-47fd09b27a73 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:48:34.376 INFO  553f5d15-ca37-4041-a8fd-f7feacb02fab [UserService.getUserList] page=undefined limit=undefined 
+23:48:34.414 INFO  553f5d15-ca37-4041-a8fd-f7feacb02fab [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:48:34.443 INFO  0c159ed0-cd97-4281-92d1-586e94b5a404 [UserService.getUserList] page=undefined limit=undefined 
+23:48:34.444 INFO  0c159ed0-cd97-4281-92d1-586e94b5a404 [UserService.getUserList] error status=520 response=[object Object] 
+23:48:34.450 INFO  5eea4611-eef0-4e85-a550-8d0d9b0c7ded [UserService.getUserList] page=undefined limit=undefined 
+23:48:34.451 INFO  5eea4611-eef0-4e85-a550-8d0d9b0c7ded [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:48:34.462 INFO  e37ab992-7696-4e95-9a65-c1eaf7f7e7bc [UserService.getUserById] id=435345234afadfgawe 
+23:48:34.463 INFO  e37ab992-7696-4e95-9a65-c1eaf7f7e7bc [UserService.getUserById] success status=200 response=[object Object] 
+23:48:34.474 INFO  1186f5a2-89d7-46eb-ac62-3aae31cff73a [UserService.getUserById] id=435345234afadfgawe 
+23:48:34.475 INFO  1186f5a2-89d7-46eb-ac62-3aae31cff73a [UserService.getUserById] error status=520 response=[object Object] 
+23:48:34.485 INFO  bae9e195-e400-472d-9993-e0fafd759df0 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:48:34.486 INFO  bae9e195-e400-472d-9993-e0fafd759df0 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:48:34.495 INFO  2c9bb1e4-d5e2-47de-8aa3-2ec0c841f6a1 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:48:34.496 INFO  2c9bb1e4-d5e2-47de-8aa3-2ec0c841f6a1 [UserService.editUserById] error status=520 response=[object Object] 
+23:48:34.523 INFO  4bd49fd3-c48f-4850-b152-c99af0b2c8fd [UserService.createUser] INPUT PARAMS body={} 
+23:48:34.524 INFO  4bd49fd3-c48f-4850-b152-c99af0b2c8fd [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:49:00.217 INFO  001fc072-ee96-4dd0-a172-33713a938c94 [UserService.getUserList] page=undefined limit=undefined 
+23:49:00.220 INFO  001fc072-ee96-4dd0-a172-33713a938c94 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:49:00.248 INFO  e83df910-abbe-416d-8655-003a064c2bc8 [UserService.getUserList] page=undefined limit=undefined 
+23:49:00.248 INFO  e83df910-abbe-416d-8655-003a064c2bc8 [UserService.getUserList] error status=520 response=[object Object] 
+23:49:00.253 INFO  fa512f30-a3f1-41c2-a443-5d434308aeed [UserService.getUserList] page=undefined limit=undefined 
+23:49:00.254 INFO  fa512f30-a3f1-41c2-a443-5d434308aeed [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:49:00.259 INFO  154b4324-e4fd-4fb2-ac0c-c547ec54fa0c [UserService.getUserById] id=435345234afadfgawe 
+23:49:00.260 INFO  154b4324-e4fd-4fb2-ac0c-c547ec54fa0c [UserService.getUserById] success status=200 response=[object Object] 
+23:49:00.266 INFO  a415625c-233a-4cbd-9fa1-af5ef99331e6 [UserService.getUserById] id=435345234afadfgawe 
+23:49:00.266 INFO  a415625c-233a-4cbd-9fa1-af5ef99331e6 [UserService.getUserById] error status=520 response=[object Object] 
+23:49:00.271 INFO  f708ac9a-df58-44b2-ab71-1944463e93af [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:49:00.272 INFO  f708ac9a-df58-44b2-ab71-1944463e93af [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:49:00.276 INFO  9f468443-4061-4839-b897-860ea74ec047 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:49:00.276 INFO  9f468443-4061-4839-b897-860ea74ec047 [UserService.editUserById] error status=520 response=[object Object] 
+23:49:00.299 INFO  1a07c092-17a2-4811-bcbf-3aca5304fb47 [UserService.createUser] INPUT PARAMS body={} 
+23:49:00.299 INFO  1a07c092-17a2-4811-bcbf-3aca5304fb47 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:49:00.306 INFO  4a758d38-ac29-4400-8e91-d5836cae6675 [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:49:00.307 INFO  4a758d38-ac29-4400-8e91-d5836cae6675 [UserService.getUserList] error status=520 response=ERROR 
+23:49:20.058 INFO  91f68f49-6b19-4eab-a64c-efd15eb5f87d [UserService.getUserList] page=undefined limit=undefined 
+23:49:20.061 INFO  91f68f49-6b19-4eab-a64c-efd15eb5f87d [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:49:20.086 INFO  a95d5b3e-2c30-439a-ac6d-cee3c81e5f7e [UserService.getUserList] page=undefined limit=undefined 
+23:49:20.087 INFO  a95d5b3e-2c30-439a-ac6d-cee3c81e5f7e [UserService.getUserList] error status=520 response=[object Object] 
+23:49:20.092 INFO  db626fc3-09eb-421a-a2dd-181c1766e553 [UserService.getUserList] page=undefined limit=undefined 
+23:49:20.092 INFO  db626fc3-09eb-421a-a2dd-181c1766e553 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:49:20.097 INFO  3a857e98-374c-442a-b46e-d5f3f635d38d [UserService.getUserById] id=435345234afadfgawe 
+23:49:20.098 INFO  3a857e98-374c-442a-b46e-d5f3f635d38d [UserService.getUserById] success status=200 response=[object Object] 
+23:49:20.105 INFO  45886c7a-10a0-49f4-9ddc-6107c464d9c1 [UserService.getUserById] id=435345234afadfgawe 
+23:49:20.106 INFO  45886c7a-10a0-49f4-9ddc-6107c464d9c1 [UserService.getUserById] error status=520 response=[object Object] 
+23:49:20.112 INFO  d76baf76-4593-462e-aa0e-e43eb7002398 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:49:20.112 INFO  d76baf76-4593-462e-aa0e-e43eb7002398 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:49:20.116 INFO  755c820b-00a1-49c5-98ea-467cba8b7053 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:49:20.117 INFO  755c820b-00a1-49c5-98ea-467cba8b7053 [UserService.editUserById] error status=520 response=[object Object] 
+23:49:20.138 INFO  db8377df-87ca-4f87-abb2-fb78cd0de6dc [UserService.createUser] INPUT PARAMS body={} 
+23:49:20.138 INFO  db8377df-87ca-4f87-abb2-fb78cd0de6dc [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:49:20.144 INFO  f42af98f-c72c-4ac8-9686-514e95cb9062 [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:49:20.144 INFO  f42af98f-c72c-4ac8-9686-514e95cb9062 [UserService.getUserList] error status=520 response=ERROR 
+23:49:40.097 INFO  20c456b4-b614-4e18-bbd3-168fec049249 [UserService.getUserList] page=undefined limit=undefined 
+23:49:40.100 INFO  20c456b4-b614-4e18-bbd3-168fec049249 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:49:40.131 INFO  8ae8081a-0deb-4a64-ab1d-2c6dc280bf3e [UserService.getUserList] page=undefined limit=undefined 
+23:49:40.131 INFO  8ae8081a-0deb-4a64-ab1d-2c6dc280bf3e [UserService.getUserList] error status=520 response=[object Object] 
+23:49:40.136 INFO  2a99f915-c971-4e50-89b0-41cdd0aee734 [UserService.getUserList] page=undefined limit=undefined 
+23:49:40.137 INFO  2a99f915-c971-4e50-89b0-41cdd0aee734 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:49:40.142 INFO  d4336b83-7c76-4491-b368-d473a07dd82c [UserService.getUserById] id=435345234afadfgawe 
+23:49:40.142 INFO  d4336b83-7c76-4491-b368-d473a07dd82c [UserService.getUserById] success status=200 response=[object Object] 
+23:49:40.148 INFO  d20ae1d2-d944-4c38-8ade-39ead5059dca [UserService.getUserById] id=435345234afadfgawe 
+23:49:40.148 INFO  d20ae1d2-d944-4c38-8ade-39ead5059dca [UserService.getUserById] error status=520 response=[object Object] 
+23:49:40.154 INFO  668bb119-14dd-4c5c-b882-b62029f541fe [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:49:40.155 INFO  668bb119-14dd-4c5c-b882-b62029f541fe [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:49:40.161 INFO  22a3e92e-e82a-4c5a-aceb-1cb81f83adc6 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:49:40.161 INFO  22a3e92e-e82a-4c5a-aceb-1cb81f83adc6 [UserService.editUserById] error status=520 response=[object Object] 
+23:49:40.186 INFO  d5ba1e6e-2e65-4b65-ae04-f1138dbd6153 [UserService.createUser] INPUT PARAMS body={} 
+23:49:40.186 INFO  d5ba1e6e-2e65-4b65-ae04-f1138dbd6153 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:49:40.193 INFO  fbf652e5-b8c5-4c63-b53d-7f753b1bcadf [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:49:40.193 INFO  fbf652e5-b8c5-4c63-b53d-7f753b1bcadf [UserService.getUserList] error status=520 response=ERROR 
+23:49:40.198 INFO  15187f88-389d-4987-8a7f-6324ff06f524 [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:49:40.198 INFO  15187f88-389d-4987-8a7f-6324ff06f524 [UserService.getUserPost] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:51:12.237 INFO  f20d6a22-15b8-4fb6-954a-6e01db84dc33 [UserService.getUserList] page=undefined limit=undefined 
+23:51:12.240 INFO  f20d6a22-15b8-4fb6-954a-6e01db84dc33 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:51:12.276 INFO  677f8637-9408-45a7-ac2d-45a6dc84766f [UserService.getUserList] page=undefined limit=undefined 
+23:51:12.276 INFO  677f8637-9408-45a7-ac2d-45a6dc84766f [UserService.getUserList] error status=520 response=[object Object] 
+23:51:12.283 INFO  e5536e73-7e93-498c-ad56-2ea633e74109 [UserService.getUserList] page=undefined limit=undefined 
+23:51:12.284 INFO  e5536e73-7e93-498c-ad56-2ea633e74109 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:51:12.292 INFO  b2388838-ec85-4b8d-a4ee-b4764af9fb59 [UserService.getUserById] id=435345234afadfgawe 
+23:51:12.292 INFO  b2388838-ec85-4b8d-a4ee-b4764af9fb59 [UserService.getUserById] success status=200 response=[object Object] 
+23:51:12.301 INFO  26167913-34a4-4592-a395-2ce25f3b9faa [UserService.getUserById] id=435345234afadfgawe 
+23:51:12.301 INFO  26167913-34a4-4592-a395-2ce25f3b9faa [UserService.getUserById] error status=520 response=[object Object] 
+23:51:12.311 INFO  76854df6-c582-4ad5-8851-e4589fd13a15 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:51:12.312 INFO  76854df6-c582-4ad5-8851-e4589fd13a15 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:51:12.321 INFO  e7809861-d791-45e1-a9c1-d24f11165eea [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:51:12.321 INFO  e7809861-d791-45e1-a9c1-d24f11165eea [UserService.editUserById] error status=520 response=[object Object] 
+23:51:12.357 INFO  fd9d3b62-a17f-4b41-ad11-a7380d77cbf6 [UserService.createUser] INPUT PARAMS body={} 
+23:51:12.358 INFO  fd9d3b62-a17f-4b41-ad11-a7380d77cbf6 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:51:12.373 INFO  b7a20d19-3999-44f0-8800-64be140c34fc [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:51:12.374 INFO  b7a20d19-3999-44f0-8800-64be140c34fc [UserService.getUserList] error status=520 response=ERROR 
+23:51:12.383 INFO  453ecd06-dc05-4afa-891b-20aee763b2ec [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:51:12.384 INFO  453ecd06-dc05-4afa-891b-20aee763b2ec [UserService.getUserPost] success status=200 response={"data":[{"title":"Andreas","text":"Valent"},{"title":"Oleg","text":"Ivanov"}]} 
+23:51:33.268 INFO  918d942f-15de-449a-ab65-0c3d7c7d6a3b [UserService.getUserList] page=undefined limit=undefined 
+23:51:33.276 INFO  918d942f-15de-449a-ab65-0c3d7c7d6a3b [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:51:33.320 INFO  38790049-f03c-4532-a0db-4cca718e2529 [UserService.getUserList] page=undefined limit=undefined 
+23:51:33.321 INFO  38790049-f03c-4532-a0db-4cca718e2529 [UserService.getUserList] error status=520 response=[object Object] 
+23:51:33.327 INFO  a1c5a630-4cc4-49fd-8041-82408480d27a [UserService.getUserList] page=undefined limit=undefined 
+23:51:33.328 INFO  a1c5a630-4cc4-49fd-8041-82408480d27a [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:51:33.334 INFO  d63ae389-8d22-48f4-b126-38fc8aca9244 [UserService.getUserById] id=435345234afadfgawe 
+23:51:33.335 INFO  d63ae389-8d22-48f4-b126-38fc8aca9244 [UserService.getUserById] success status=200 response=[object Object] 
+23:51:33.342 INFO  c2b84e94-e4f0-47a1-97d2-cb274a31aa84 [UserService.getUserById] id=435345234afadfgawe 
+23:51:33.343 INFO  c2b84e94-e4f0-47a1-97d2-cb274a31aa84 [UserService.getUserById] error status=520 response=[object Object] 
+23:51:33.352 INFO  e368a325-71d7-4c10-90ea-f9c7a0028bb9 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:51:33.353 INFO  e368a325-71d7-4c10-90ea-f9c7a0028bb9 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:51:33.358 INFO  159564ee-bdcd-4d5f-b3d5-0cd56829d27c [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:51:33.358 INFO  159564ee-bdcd-4d5f-b3d5-0cd56829d27c [UserService.editUserById] error status=520 response=[object Object] 
+23:51:33.396 INFO  386039ae-5211-437d-8c83-fc8fda8393b3 [UserService.createUser] INPUT PARAMS body={} 
+23:51:33.397 INFO  386039ae-5211-437d-8c83-fc8fda8393b3 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:51:33.406 INFO  4f9ce7b2-11a2-44bd-b048-5f1215009adc [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:51:33.406 INFO  4f9ce7b2-11a2-44bd-b048-5f1215009adc [UserService.getUserList] error status=520 response=ERROR 
+23:51:33.412 INFO  9780f141-85ad-4a9e-a58a-fef7bf8ff220 [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:51:33.412 INFO  9780f141-85ad-4a9e-a58a-fef7bf8ff220 [UserService.getUserPost] success status=200 response={"data":[{"title":"Andreas","text":"Valent"},{"title":"Oleg","text":"Ivanov"}]} 
+23:52:28.002 INFO  559e54d3-e78a-4666-b215-209bc005e376 [UserService.getUserList] page=undefined limit=undefined 
+23:52:28.009 INFO  559e54d3-e78a-4666-b215-209bc005e376 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:52:28.047 INFO  0d893186-2b44-4f19-91c6-7b44070df56f [UserService.getUserList] page=undefined limit=undefined 
+23:52:28.047 INFO  0d893186-2b44-4f19-91c6-7b44070df56f [UserService.getUserList] error status=520 response=[object Object] 
+23:52:28.054 INFO  0ae17741-36ed-4cc6-99ee-0986e473c57d [UserService.getUserList] page=undefined limit=undefined 
+23:52:28.055 INFO  0ae17741-36ed-4cc6-99ee-0986e473c57d [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:52:28.060 INFO  d32af6ab-d85b-42ec-b9c8-8641a2cf814b [UserService.getUserById] id=435345234afadfgawe 
+23:52:28.061 INFO  d32af6ab-d85b-42ec-b9c8-8641a2cf814b [UserService.getUserById] success status=200 response=[object Object] 
+23:52:28.067 INFO  3d1e2d4c-4965-4fb9-8fb9-7b28c080afca [UserService.getUserById] id=435345234afadfgawe 
+23:52:28.067 INFO  3d1e2d4c-4965-4fb9-8fb9-7b28c080afca [UserService.getUserById] error status=520 response=[object Object] 
+23:52:28.073 INFO  f5609bd9-dd3c-431e-8c1b-d750fc8f4edf [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:52:28.073 INFO  f5609bd9-dd3c-431e-8c1b-d750fc8f4edf [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:52:28.078 INFO  34cd4c44-2845-4d45-bae8-ae2ba0ac8ec8 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:52:28.079 INFO  34cd4c44-2845-4d45-bae8-ae2ba0ac8ec8 [UserService.editUserById] error status=520 response=[object Object] 
+23:52:28.106 INFO  4fdf6d22-fb39-4598-a931-f57588c2d50b [UserService.createUser] INPUT PARAMS body={} 
+23:52:28.107 INFO  4fdf6d22-fb39-4598-a931-f57588c2d50b [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:52:28.116 INFO  2b5c94bf-f2d4-46e2-abc8-93dac1590f68 [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:52:28.116 INFO  2b5c94bf-f2d4-46e2-abc8-93dac1590f68 [UserService.getUserList] error status=520 response=ERROR 
+23:52:28.122 INFO  c212c45d-08fb-4562-95c0-041dec006529 [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:52:28.123 INFO  c212c45d-08fb-4562-95c0-041dec006529 [UserService.getUserPost] success status=200 response={"data":[{"title":"Andreas","text":"Valent"},{"title":"Oleg","text":"Ivanov"}]} 
+23:52:28.128 INFO  bc03e2be-df9f-4450-b871-3afe9dd6596a [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:52:28.128 INFO  bc03e2be-df9f-4450-b871-3afe9dd6596a [UserService.getUserPost] error status=520 response=[object Object] 
+23:52:28.158 INFO  94d3e262-452f-4342-ba49-94e4949f7fa2 [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:52:28.158 INFO  94d3e262-452f-4342-ba49-94e4949f7fa2 [UserService.getUserList] error status=520 response=[object Object] 
+23:54:25.433 INFO  31b33bfb-47ab-49c8-b7a4-dbcd4f62c30e [UserService.getUserList] page=undefined limit=undefined 
+23:54:25.438 INFO  31b33bfb-47ab-49c8-b7a4-dbcd4f62c30e [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:54:25.481 INFO  bf7903a0-091b-45fa-862a-822dbffb4c1c [UserService.getUserList] page=undefined limit=undefined 
+23:54:25.482 INFO  bf7903a0-091b-45fa-862a-822dbffb4c1c [UserService.getUserList] error status=520 response=[object Object] 
+23:54:25.489 INFO  9028e294-f6ed-439f-ad50-c32e39970899 [UserService.getUserList] page=undefined limit=undefined 
+23:54:25.490 INFO  9028e294-f6ed-439f-ad50-c32e39970899 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:54:25.496 INFO  e6e8b17a-9f1c-4c9e-8829-a292fdcde667 [UserService.getUserById] id=435345234afadfgawe 
+23:54:25.496 INFO  e6e8b17a-9f1c-4c9e-8829-a292fdcde667 [UserService.getUserById] success status=200 response=[object Object] 
+23:54:25.502 INFO  9b11c5f2-6852-4bef-a2fe-8425cecb10a1 [UserService.getUserById] id=435345234afadfgawe 
+23:54:25.503 INFO  9b11c5f2-6852-4bef-a2fe-8425cecb10a1 [UserService.getUserById] error status=520 response=[object Object] 
+23:54:25.510 INFO  caa7f9b8-077a-4037-b651-e12d06a29dc8 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:54:25.510 INFO  caa7f9b8-077a-4037-b651-e12d06a29dc8 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:54:25.518 INFO  2fe4470a-f07f-40f2-88bc-dbe89400379c [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:54:25.518 INFO  2fe4470a-f07f-40f2-88bc-dbe89400379c [UserService.editUserById] error status=520 response=[object Object] 
+23:54:25.554 INFO  b5363539-2083-4b05-a052-6e34809666a6 [UserService.createUser] INPUT PARAMS body={} 
+23:54:25.555 INFO  b5363539-2083-4b05-a052-6e34809666a6 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:54:25.561 INFO  10186281-9eb5-45de-8dbc-f9db19317054 [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:54:25.562 INFO  10186281-9eb5-45de-8dbc-f9db19317054 [UserService.getUserList] error status=520 response=ERROR 
+23:54:25.566 INFO  6ba976c1-7ce1-40c2-82aa-7fc4156912d4 [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:54:25.567 INFO  6ba976c1-7ce1-40c2-82aa-7fc4156912d4 [UserService.getUserPost] success status=200 response={"data":[{"title":"Andreas","text":"Valent"},{"title":"Oleg","text":"Ivanov"}]} 
+23:54:25.572 INFO  88e1c7c1-2142-4e33-9180-463c8d2142af [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:54:25.572 INFO  88e1c7c1-2142-4e33-9180-463c8d2142af [UserService.getUserPost] error status=520 response=[object Object] 
+23:54:39.201 INFO  ea25ea37-5918-483f-998c-f5a930999cac [UserService.getUserList] page=undefined limit=undefined 
+23:54:39.205 INFO  ea25ea37-5918-483f-998c-f5a930999cac [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:54:39.240 INFO  1c769c06-7e08-4006-8f0e-8a4c1ef8ab12 [UserService.getUserList] page=undefined limit=undefined 
+23:54:39.240 INFO  1c769c06-7e08-4006-8f0e-8a4c1ef8ab12 [UserService.getUserList] error status=520 response=[object Object] 
+23:54:39.245 INFO  20464c92-e8e5-4349-9ae7-f454f3d198c1 [UserService.getUserList] page=undefined limit=undefined 
+23:54:39.246 INFO  20464c92-e8e5-4349-9ae7-f454f3d198c1 [UserService.getUserList] error status=520 response=FETCH ERROR 
+23:54:39.251 INFO  57cbccbb-008d-467d-be9b-77ea26eaf661 [UserService.getUserById] id=435345234afadfgawe 
+23:54:39.251 INFO  57cbccbb-008d-467d-be9b-77ea26eaf661 [UserService.getUserById] success status=200 response=[object Object] 
+23:54:39.257 INFO  710c6b0c-7bf9-4533-beeb-17f4d289c1bd [UserService.getUserById] id=435345234afadfgawe 
+23:54:39.257 INFO  710c6b0c-7bf9-4533-beeb-17f4d289c1bd [UserService.getUserById] error status=520 response=[object Object] 
+23:54:39.262 INFO  ab067efe-168e-4d36-88e6-bfc8eb2afde8 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:54:39.262 INFO  ab067efe-168e-4d36-88e6-bfc8eb2afde8 [UserService.editUserById] success status=200 response={"name":"Oleg","lastName":"Ivanov","expectedId":"435345234afadfgawe"} 
+23:54:39.267 INFO  46c7e9db-2654-4db3-996b-50233f48ecb8 [UserService.editUserById] id=435345234afadfgawe body=[object Object] 
+23:54:39.267 INFO  46c7e9db-2654-4db3-996b-50233f48ecb8 [UserService.editUserById] error status=520 response=[object Object] 
+23:54:39.298 INFO  55f03300-3bda-454c-96ae-d2d8b15357d6 [UserService.createUser] INPUT PARAMS body={} 
+23:54:39.298 INFO  55f03300-3bda-454c-96ae-d2d8b15357d6 [UserService.createUser] success status=200 response={"status":"ok","id":"435345234afadfgawe"} 
+23:54:39.304 INFO  c289eb17-b113-4e25-8786-1a6a020e9f4c [UserService.createUser] INPUT PARAMS body={"name":"Any","lastName":"anyLastName"} 
+23:54:39.304 INFO  c289eb17-b113-4e25-8786-1a6a020e9f4c [UserService.getUserList] error status=520 response=ERROR 
+23:54:39.309 INFO  d813c914-8ecb-469a-a478-5877af41c58a [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:54:39.309 INFO  d813c914-8ecb-469a-a478-5877af41c58a [UserService.getUserPost] success status=200 response={"data":[{"title":"Andreas","text":"Valent"},{"title":"Oleg","text":"Ivanov"}]} 
+23:54:39.314 INFO  5749cb54-0daf-4df4-be9f-2d471c503bb2 [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:54:39.315 INFO  5749cb54-0daf-4df4-be9f-2d471c503bb2 [UserService.getUserPost] error status=520 response=[object Object] 
+23:54:39.321 INFO  161fb18f-60b3-45d6-b784-323192d9c04b [UserService.getUserPost] id=435345234afadfgawe query=[object Object] 
+23:54:39.321 INFO  161fb18f-60b3-45d6-b784-323192d9c04b [UserService.getUserList] error status=520 response=FETCH ERROR 

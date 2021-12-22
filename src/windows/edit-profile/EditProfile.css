@@ -1,0 +1,87 @@
+.profile-window{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    max-width: 400px;
+    border-radius: 25px;
+    box-shadow: 0 0 5px 1px;
+    max-height: 80%;
+    overflow: hidden auto;
+}
+#dark .profile-window{
+    background-color: #2d3748;
+}
+.profile-window__user-img{
+    width: 200px;
+    border-radius: 15px;
+}
+.profile-window__edit-img{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    font-size: 16px;
+    line-height: 24px;
+}
+.profile-window__edit-img>*:not(:last-child){
+    margin-right: 15px;
+}
+.profile-window__edit-img>*:not(:last-child):after{
+    content: " ";
+    background: grey;
+    width: 2px;
+    height: 24px;
+    float: right;
+    margin-left: 15px;
+}
+.profile-window__edit-img label{
+    cursor: pointer;
+}
+.profile-window__edit-img label:hover{
+    text-decoration: underline;
+}
+.user-login__img{
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+/*Закрывающая кнопка*/
+.profile-window-close{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: grey;
+    cursor: pointer;
+}
+.profile-window-close:after{
+    content: "X";
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: bold;
+    color: white;
+}
+.profile-window-close:hover{
+    background-color: #6d6b82;
+}
+.profile-window-close:active:after{
+    color: red;
+}
+#photo{
+    display: none;
+}
+
+@media (max-width: 420px) {
+    .profile-window{
+        max-width: 300px;
+    }
+}

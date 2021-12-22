@@ -1,0 +1,20 @@
+23:22:50.535 INFO  92e101f0-7eb4-4fab-a558-84c2efd8dcfb [UserService.getUserList] page=undefined limit=undefined 
+23:22:50.538 INFO  92e101f0-7eb4-4fab-a558-84c2efd8dcfb [UserService.getUserList] success status=200 response=[object Object] 
+23:28:48.859 INFO  b886ad3a-efd7-42ad-a708-b6d06c87e3be [UserService.getUserList] page=undefined limit=undefined 
+23:28:48.861 INFO  b886ad3a-efd7-42ad-a708-b6d06c87e3be [UserService.getUserList] success status=200 response=[object Object] 
+23:29:20.452 INFO  0b0c1457-5b3e-4fa5-9528-3eceb620327a [UserService.getUserList] page=undefined limit=undefined 
+23:29:20.456 INFO  0b0c1457-5b3e-4fa5-9528-3eceb620327a [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:32:02.286 INFO  a9d2f078-4c27-4bdf-894a-e09e200437a0 [UserService.getUserList] page=undefined limit=undefined 
+23:32:02.292 INFO  a9d2f078-4c27-4bdf-894a-e09e200437a0 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:33:14.282 INFO  11598039-6d08-42bc-b8df-5a9944cee8cd [UserService.getUserList] page=undefined limit=undefined 
+23:33:14.289 INFO  11598039-6d08-42bc-b8df-5a9944cee8cd [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:34:37.714 INFO  c8f66262-bea0-45c8-9d1d-990a82fe4327 [UserService.getUserList] page=undefined limit=undefined 
+23:34:37.719 INFO  c8f66262-bea0-45c8-9d1d-990a82fe4327 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:44:57.182 INFO  325763ea-02c8-474c-99fc-c406266ae51d [UserService.getUserList] page=undefined limit=undefined 
+23:44:57.185 INFO  325763ea-02c8-474c-99fc-c406266ae51d [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:45:31.930 INFO  3b4c5628-97a3-4379-91d9-8ff7a3369476 [UserService.getUserList] page=undefined limit=undefined 
+23:45:31.937 INFO  3b4c5628-97a3-4379-91d9-8ff7a3369476 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:47:35.828 INFO  7ade7894-20d5-4edb-b614-e4f6ba4cd029 [UserService.getUserList] page=undefined limit=undefined 
+23:47:35.833 INFO  7ade7894-20d5-4edb-b614-e4f6ba4cd029 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 
+23:49:47.356 INFO  84cb7fb7-be2a-488b-86c9-51a12fa65f28 [UserService.getUserList] page=undefined limit=undefined 
+23:49:47.362 INFO  84cb7fb7-be2a-488b-86c9-51a12fa65f28 [UserService.getUserList] success status=200 response={"data":[{"name":"Andreas","lastName":"Valent","type":1},{"name":"Oleg","lastName":"Ivanov","type":2}]} 

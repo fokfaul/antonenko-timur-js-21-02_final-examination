@@ -1,0 +1,46 @@
+.win-loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -33px;
+  margin-left: -33px;
+}
+.win-loader span {
+  position: absolute;
+  display: block;
+  border: 3px solid white;
+  border-radius: 100%;
+}
+.win-loader__1lvl,
+.win-loader__2lvl,
+.win-loader__3lvl {
+  animation-name: rotate;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+.win-loader__1lvl {
+  width: 60px;
+  height: 60px;
+  animation-duration: 1500ms;
+}
+.win-loader__2lvl {
+  animation-duration: 4500ms;
+  transform-origin: 63% 63%;
+  width: 40px;
+  height: 40px;
+}
+.win-loader__3lvl {
+  animation-duration: 9000ms;
+  transform-origin: 74% 74%;
+  width: 20px;
+  height: 20px;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  100% {
+    transform: rotateZ(360deg);
+  }
+}

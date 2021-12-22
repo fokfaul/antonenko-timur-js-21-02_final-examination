@@ -1,0 +1,42 @@
+.arrow {
+    cursor: pointer;
+    height: 120px;
+    width: 80px;
+}
+.arrow-top, .arrow-bottom {
+    background-color: #666;
+    height: 4px;
+    width: 100%;
+    min-width: 40px;
+}
+
+#dark .arrow-top, #dark .arrow-bottom {
+    background-color: white;
+}
+
+.arrow-top {
+    margin-top: 60px;
+    transform: rotate(45deg);
+    transform-origin: bottom right;
+}
+
+.arrow-bottom {
+    margin-top: -4px;
+    transform: rotate(-45deg);
+    transform-origin: top right;
+}
+
+.reverse .arrow-top{
+    transform: rotate(45deg);
+    transform-origin: top left;
+}
+.reverse .arrow-bottom {
+    transform: rotate(-45deg);
+    transform-origin: bottom left;
+}
+.arrow:hover div, #dark .arrow:hover div{
+    background-color: #6a5acd
+}
+.arrow:active {
+    transform: scale(0.9);
+}
